@@ -1,0 +1,16 @@
+﻿Feito instalação de uma biblioteca para consumir rest via nuget
+
+Install-Package Microsoft.AspNet.WebApi.Client
+
+Ferramentas utilizadas:
+
+Postman
+
+json2csharp que cria uma classe apartir de um json
+
+Requisição
+Tipo MIME (application/json)
+Verbo HTTP (get, post, put, delete)
+
+Body
+Dados da nota (Json)
